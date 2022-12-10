@@ -1,42 +1,10 @@
-# Nuxt 3 Minimal Starter
+# cpnt-262-achievements-round-3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**Course title:** CPNT 262
 
-## Setup
+**Assignment name:** Components and Class Bindings
 
-Make sure to install the dependencies:
+**Author:** Deoj Balcanao
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Attributions
+**Image from Pixabay** - https://pixabay.com/illustrations/small-poly-animal-vector-art-3310319/
